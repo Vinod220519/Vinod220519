@@ -12,8 +12,11 @@
 [![Gmail](https://img.shields.io/badge/Email-tambevinod22@gmail.com-D14836?logo=gmail&style=flat-square&logoColor=white)](mailto:tambevinod22@gmail.com)
 
 <div align="center">
-  <br />
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&width=1000&lines=Welcome+to+my+Data+Analytics+Portfolio!;Mastering+Supply+Chain+with+Power+BI+and+SQL;Turning+Complex+Data+into+Actionable+Insights!)](https://git.io/typing-svg)
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F2C811&center=true&vCenter=true&width=800&lines=Welcome+to+my+Data+Analytics+Portfolio!;Mastering+Supply+Chain+with+Power+BI+and+SQL;Turning+Complex+Data+into+Actionable+Insights!)](https://git.io/typing-svg)
+
+<br>
 </div>
 
 <hr>
@@ -28,6 +31,7 @@
 
 ### **Visualization & Business Intelligence**
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=SAP&logoColor=white)
 
